@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 
 # perform edge detection using sobels filter on grey-scale image.
-
 def sobels_filter(grey_img):
     
     # 3 x 3 filter
@@ -29,6 +28,7 @@ def sobels_filter(grey_img):
     out_lst = []
     out_lstx = []
     out_lsty = []
+    
     for i in range(grey_img.shape[0]):
         for j in range(grey_img.shape[1]):
             # convolution in x-direction.
