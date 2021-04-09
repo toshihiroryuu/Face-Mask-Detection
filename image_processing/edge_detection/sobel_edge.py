@@ -3,16 +3,16 @@ import numpy as np
 
 # perform edge detection using sobels filter on grey-scale image.
 def sobels_filter(grey_img):
-    
+
     # 3 x 3 filter
     filter_h, filter_w = 3, 3
 
-    filter_coeffx = [[-1, 0, 1], 
-                    [-2, 0, 2], 
+    filter_coeffx = [[-1, 0, 1],
+                    [-2, 0, 2],
                     [-1, 0, 1]]
 
-    filter_coeffy = [[-1, -2, -1], 
-                    [0, 0, 0], 
+    filter_coeffy = [[-1, -2, -1],
+                    [0, 0, 0],
                     [1, 2, 1]]
 
     #padding on sides.
@@ -40,6 +40,6 @@ def sobels_filter(grey_img):
 
     #reshape list to image size.
     sb_fil_img = np.reshape(out_lst, (grey_img.shape[0], grey_img.shape[1]))
-    sb_fil_img = np.array(array, dtype = np.uint8)
+    sb_fil_img = np.array(sb_fil_img, dtype = np.uint8)
     
     return sb_fil_img
