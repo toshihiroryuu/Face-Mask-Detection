@@ -1,13 +1,13 @@
 # Face Mask Detection
 
-[09-04-2021] Try Histogram Equalisation.
+Try Histogram Equalisation [09-04-2021].
 
 Try Sharpening Filters:
 
-1. [09-04-2021] Laplace Filter
+1. Laplace Filter [09-04-2021]
 
 Try different Edge detection filters:
 
-1. [09-04-2021] Sobels Filter
-2. [09-04-2021] Roberts Filter
+1. Sobels Filter [09-04-2021]
+2. Roberts Filter [09-04-2021]
 3. 
