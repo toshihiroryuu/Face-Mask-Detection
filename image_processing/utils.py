@@ -7,4 +7,5 @@ def rgb_to_grey(rgb_img):
 
 # convert grey-scale image to rgb image.
 def grey_to_rgb(grey_img):
+    rgb_img = cv2.cvtColor(grey_img, cv2.COLOR_GRAY2RGB)
     return rgb_img
