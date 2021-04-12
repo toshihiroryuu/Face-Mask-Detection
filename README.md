@@ -9,5 +9,6 @@ Try Sharpening Filters:
 Try different Edge detection filters:
  
 1. Sobels Filter [09-04-2021] - [12-04-2021]
-2. Roberts Filter [09-04-2021]
-3. 
+2. Roberts Filter [09-04-2021] - [12-04-2021]
+3. Scharr Filter [12-04-2021]
+4. Canny Edge [12-04-2021]
