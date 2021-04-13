@@ -17,7 +17,7 @@ Try different Smoothing Techniques:
 
 1. Average Smoothing [13-04-2021]
 2. Weighted Average Smoothing [13-04-2021]
-3. Modee Smoothing [13-04-2021]
+3. Mode Smoothing [13-04-2021]
 4. Median Smoothing [13-04-2021]
 
 
