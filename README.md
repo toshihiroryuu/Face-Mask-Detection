@@ -12,3 +12,10 @@ Try different Edge detection filters:
 2. Roberts Filter [09-04-2021] - [12-04-2021]
 3. Scharr Filter [12-04-2021] - [13-04-2021]
 4. Canny Edge [12-04-2021] - [13-04-2021]
+
+Try different Smoothing Techniques:
+
+1. Average Smoothing [13-04-2021]
+2. Weighted Average Smoothing [13-04-2021]
+3. Modee Smoothing [13-04-2021]
+4. Median Smoothing [13-04-2021]
