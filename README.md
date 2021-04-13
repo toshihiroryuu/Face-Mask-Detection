@@ -21,6 +21,6 @@ Try different Smoothing Techniques:
 4. Median Smoothing [13-04-2021]
 
 
-Find test-rsults in path:
+Find test-results in path:
 
 "Face-Mask-Detection/image_processing/test-results/"
