@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-Try different Edge detection filters:
+Try different Edge detection Techniques:
  
 1. Sobels Filter [09-04-2021] - [12-04-2021]
 2. Roberts Filter [09-04-2021] - [12-04-2021]
