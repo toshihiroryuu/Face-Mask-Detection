@@ -19,3 +19,8 @@ Try different Smoothing Techniques:
 2. Weighted Average Smoothing [13-04-2021]
 3. Modee Smoothing [13-04-2021]
 4. Median Smoothing [13-04-2021]
+
+
+Find test-rsults in path:
+
+"Face-Mask-Detection/image_processing/test-results/"
