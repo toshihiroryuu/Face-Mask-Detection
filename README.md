@@ -14,14 +14,12 @@ Try different Smoothing Techniques:
 3. Mode Smoothing [13-04-2021]
 4. Median Smoothing [13-04-2021]
 
-
-Try Histogram Equalisation [09-04-2021].
-
-Try Sharpening Filters:
-
-1. Laplace Filter [09-04-2021]
-
-
 Find test-results in path:
 
 "Face-Mask-Detection/image_processing/test-results/"
+
+Added Detection:
+1. VGG16 [14-04-2021]
+
+
+
