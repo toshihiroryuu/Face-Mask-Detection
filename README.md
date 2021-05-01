@@ -14,11 +14,11 @@ Try different Smoothing Techniques:
 3. Mode Smoothing [13-04-2021]
 4. Median Smoothing [13-04-2021]
 
-Frequency Domain Filteers:
+Frequency Domain Filters:
 image_processing/Experiments
 
 
-Featue Extraction:
+Feature Extraction:
 image_processing/Experiments
 
 1. SIFT
