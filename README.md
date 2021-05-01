@@ -14,6 +14,15 @@ Try different Smoothing Techniques:
 3. Mode Smoothing [13-04-2021]
 4. Median Smoothing [13-04-2021]
 
+Frequency Domain Filteers:
+image_processing/Experiments
+
+
+Featue Extraction:
+image_processing/Experiments
+
+1. SIFT
+
 Find test-results in path:
 
 "Face-Mask-Detection/image_processing/test-results/"
