@@ -30,5 +30,14 @@ Find test-results in path:
 Added Detection:
 1. VGG16 [14-04-2021]
 
+Face Detection : 
+
+1. Viola Jones [17- 05 - 2021]
+
+
+Find test-results in path:
+
+"face_detection/"
+
 
 
